@@ -1,0 +1,6 @@
+{
+  "scripts":[
+    "create service user content-query-user",
+    "set principal ACL for content-query-user\r\n    allow jcr:read on /content\r\nend"
+  ]
+}

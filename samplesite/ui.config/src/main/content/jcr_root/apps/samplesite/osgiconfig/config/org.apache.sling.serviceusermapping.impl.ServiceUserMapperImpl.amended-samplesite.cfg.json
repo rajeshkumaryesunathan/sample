@@ -1,0 +1,5 @@
+{
+  "user.mapping": [
+    "samplesite.core:query-service=[content-query-user]"
+  ]
+}
